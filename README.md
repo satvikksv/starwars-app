@@ -8,6 +8,8 @@ A responsive web app for fetching starships data
 
 ### Run commands to run
 Go to project directory & Run the following commands after downloading the repository
+```
 cd starwars-app
 npm install
 npm run dev
+```
